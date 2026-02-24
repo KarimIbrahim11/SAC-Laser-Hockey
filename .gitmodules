@@ -1,0 +1,3 @@
+[submodule "submodules/hockey_env"]
+	path = submodules/hockey_env
+	url = https://github.com/martius-lab/hockey-env.git
